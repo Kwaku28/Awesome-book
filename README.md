@@ -72,7 +72,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://...)
+- [Awesome Book](https://kwaku28.github.io/Awesome-book/)
 
 <!-- GETTING STARTED -->
 
